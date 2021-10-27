@@ -1,0 +1,17 @@
+#*
+*#
+*~
+*.o
+*.a
+*.out
+.ipynb_checkpoints/
+__pycache__/
+*.pdf
+*.pyc
+.coverage
+*.gcov
+*.gcda
+*.gcno
+test___*
+docs/_build/*
+local/*

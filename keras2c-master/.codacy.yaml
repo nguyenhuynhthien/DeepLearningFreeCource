@@ -1,0 +1,16 @@
+---
+engines:
+ duplication:
+   exclude_paths:
+     - keras2c/**
+exclude_paths:
+  - './*'
+  - 'benchmarks/**'
+  - 'docs/**'
+  - 'example/**'
+  - '.ipynb_checkpoints/**'
+  - 'keras2c/__*'
+  - '__pycache__/**'
+  - '.pytest_cache/**'
+  - 'scratch/**'
+  - 'tests/**'
