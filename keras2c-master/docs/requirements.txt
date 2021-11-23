@@ -1,5 +1,0 @@
-sphinx
-hawkmoth
-sphinx-rtd-theme
-clang
-libclang
