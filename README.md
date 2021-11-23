@@ -1,7 +1,4 @@
 # DeepLearningFreeCource
-
-------
-
 # Khoá học Deep Learning cho người mới bắt đầu®
 
 Đây là nơi lưu trữ tài liệu của khoá học này
